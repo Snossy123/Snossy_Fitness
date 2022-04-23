@@ -107,7 +107,7 @@ body {
   .above_img img {
     top: 42%;
     right: 53%;
-    width: 30vw;
+    width: 40vw;
     height: 45vh;
   }
 }
@@ -125,7 +125,7 @@ body {
   .below_img img {
     right: 16%;
     top: 42%;
-    width: 30vw;
+    width: 40vw;
     height: 45vh;
   }
 }
@@ -337,7 +337,7 @@ h1 {
   opacity: 0.9;
   background-size: cover;
   padding: 20px;
-  color: black;
+  color:  #D5E24D;
 }
 
 .cases .case1 {
